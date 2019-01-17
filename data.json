@@ -1,0 +1,50 @@
+{
+    "speakers": [
+        {
+            "id": 1,
+            "firstName": "Genny",
+            "lastName": "Leighty"
+        },
+        {
+            "id": 2,
+            "firstName": "Susan",
+            "lastName": "Guion"
+        },
+        {
+            "id": 3,
+            "firstName": "Erwin",
+            "lastName": "Sherburne"
+        },
+        {
+            "id": 4,
+            "firstName": "Julieta",
+            "lastName": "Molnar"
+        },
+        {
+            "id": 5,
+            "firstName": "Esteban",
+            "lastName": "Pablo"
+        },
+        {
+            "id": 6,
+            "firstName": "Kerry",
+            "lastName": " Castagna"
+        },
+        {
+            "id": 7,
+            "firstName": "Tula",
+            "lastName": "Ruddell"
+        },
+        {
+            "id": 8,
+            "firstName": "Justina",
+            "lastName": "Hause"
+        }
+    ],
+    "sessions": [
+        {
+            "id": 1,
+            "name": "First test session"
+        }
+    ]
+}
